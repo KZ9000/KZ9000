@@ -101,11 +101,7 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" />
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/amazonwebservices/FFFFFF">
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/amazonwebservices/232F3E">
-  <img src="https://cdn.simpleicons.org/amazonwebservices/232F3E" width="50" height="50" alt="AWS" />
-</picture>
+  <img src="https://cdn.simpleicons.org/amazonwebservices/232F3E/FFFFFF" width="50" height="50" alt="AWS" />
 </div>
 
 <br>
