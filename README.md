@@ -28,28 +28,32 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠️ Languages & Tools</h3>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.simpleicons.org/openjdk/FFFFFF" height="40" alt="Java" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+
+  <img src="https://cdn.simpleicons.org/springboot/FFFFFF" height="40" alt="Spring Boot" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+
+  <img src="https://cdn.simpleicons.org/mysql/FFFFFF" height="40" alt="MySQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  /> 
+
+  <img src="https://cdn.simpleicons.org/git/FFFFFF" height="40" alt="Git" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" height="40" alt="GitHub" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" height="40" alt="netBeans logo"  />
+
+  <img src="https://cdn.simpleicons.org/apachemaven/FFFFFF" height="40" alt="Maven" />
   <img width="12" />
-  
-  <img src="https://cdn.simpleicons.org/apachemaven/C71A36" height="40" alt="apachemaven logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
+
+  <img src="https://cdn.simpleicons.org/markdown/FFFFFF" height="40" alt="Markdown" />
 </div>
+
 
 ###
 
