@@ -47,156 +47,131 @@
 <!-- Languages & Frameworks -->
 <h3 align="left">💻 Languages & Frameworks</h3>
 
-<div align="left">
-  <img
-    src="https://cdn.simpleicons.org/openjdk/ED8B00"
-    height="40"
-    alt="Java"
-  />
-  <img width="12" />
+<table>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" alt="Java" />
+      <br>
+      <sub><b>Java</b></sub>
+    </td>
 
-  <img
-    src="https://cdn.simpleicons.org/springboot/6DB33F"
-    height="40"
-    alt="Spring Boot"
-  />
-  <img width="12" />
+    <td align="center" width="140">
+      <img src="https://cdn.simpleicons.org/springboot/6DB33F" width="45" alt="Spring Boot" />
+      <br>
+      <sub><b>Spring Boot</b></sub>
+    </td>
 
-  <img
-    src="https://cdn.simpleicons.org/thymeleaf/005F0F"
-    height="40"
-    alt="Thymeleaf"
-  />
-</div>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/thymeleaf/thymeleaf-original.svg" width="45" alt="Thymeleaf" />
+      <br>
+      <sub><b>Thymeleaf</b></sub>
+    </td>
+  </tr>
+</table>
 
 <br>
 
 <!-- Databases -->
 <h3 align="left">🗄️ Databases</h3>
 
-<div align="left">
-  <img
-    src="https://cdn.simpleicons.org/mysql/4479A1"
-    height="40"
-    alt="MySQL"
-  />
-  <img width="12" />
+<table>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" alt="MySQL" />
+      <br>
+      <sub><b>MySQL</b></sub>
+    </td>
 
-  <img
-    src="https://cdn.simpleicons.org/postgresql/4169E1"
-    height="40"
-    alt="PostgreSQL"
-  />
-</div>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" alt="PostgreSQL" />
+      <br>
+      <sub><b>PostgreSQL</b></sub>
+    </td>
+  </tr>
+</table>
 
 <br>
 
 <!-- Tools -->
 <h3 align="left">🛠️ Tools</h3>
 
-<div align="left">
-  <img
-    src="https://cdn.simpleicons.org/apachemaven/C71A36"
-    height="40"
-    alt="Maven"
-  />
-  <img width="12" />
+<table>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width="45" alt="Maven" />
+      <br>
+      <sub><b>Maven</b></sub>
+    </td>
 
-  <img
-    src="https://cdn.simpleicons.org/git/F05032"
-    height="40"
-    alt="Git"
-  />
-  <img width="12" />
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" alt="Git" />
+      <br>
+      <sub><b>Git</b></sub>
+    </td>
 
-  <!-- GitHub -->
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://cdn.simpleicons.org/github/FFFFFF"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://cdn.simpleicons.org/github/181717"
-    />
-    <img
-      src="https://cdn.simpleicons.org/github/181717"
-      height="40"
-      alt="GitHub"
-    />
-  </picture>
+    <td align="center" width="140">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF">
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717">
+        <img src="https://cdn.simpleicons.org/github/181717" width="45" alt="GitHub" />
+      </picture>
+      <br>
+      <sub><b>GitHub</b></sub>
+    </td>
 
-  <img width="12" />
-
-  <!-- Markdown -->
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://cdn.simpleicons.org/markdown/FFFFFF"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://cdn.simpleicons.org/markdown/000000"
-    />
-    <img
-      src="https://cdn.simpleicons.org/markdown/000000"
-      height="40"
-      alt="Markdown"
-    />
-  </picture>
-</div>
+    <td align="center" width="140">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/markdown/FFFFFF">
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/markdown/000000">
+        <img src="https://cdn.simpleicons.org/markdown/000000" width="45" alt="Markdown" />
+      </picture>
+      <br>
+      <sub><b>Markdown</b></sub>
+    </td>
+  </tr>
+</table>
 
 <br>
 
 <!-- IDEs -->
 <h3 align="left">🖥️ IDEs</h3>
 
-<div align="left">
-  <!-- IntelliJ IDEA -->
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://cdn.simpleicons.org/intellijidea/FFFFFF"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://cdn.simpleicons.org/intellijidea/000000"
-    />
-    <img
-      src="https://cdn.simpleicons.org/intellijidea/000000"
-      height="40"
-      alt="IntelliJ IDEA"
-    />
-  </picture>
+<table>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="45" alt="IntelliJ IDEA" />
+      <br>
+      <sub><b>IntelliJ IDEA</b></sub>
+    </td>
 
-  <img width="12" />
-
-  <img
-    src="https://cdn.simpleicons.org/apachenetbeans/1B6AC6"
-    height="40"
-    alt="Apache NetBeans"
-  />
-</div>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg" width="45" alt="Apache NetBeans" />
+      <br>
+      <sub><b>NetBeans</b></sub>
+    </td>
+  </tr>
+</table>
 
 <br>
 
 <!-- Currently Learning -->
 <h3 align="left">📚 Currently Learning</h3>
 
-<div align="left">
-  <img
-    src="https://cdn.simpleicons.org/docker/2496ED"
-    height="40"
-    alt="Docker"
-  />
-  <img width="12" />
+<table>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" alt="Docker" />
+      <br>
+      <sub><b>Docker</b></sub>
+    </td>
 
-  <img
-    src="https://cdn.simpleicons.org/amazonaws/FF9900"
-    height="40"
-    alt="AWS"
-  />
-</div>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" width="45" alt="AWS" />
+      <br>
+      <sub><b>AWS</b></sub>
+    </td>
+  </tr>
+</table>
 
 <br>
 
