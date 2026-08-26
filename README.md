@@ -101,7 +101,11 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" />
-  <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/13.21.0/amazonwebservices.svg" width="50" height="50" alt="AWS" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/amazonwebservices/FFFFFF">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/amazonwebservices/232F3E">
+  <img src="https://cdn.simpleicons.org/amazonwebservices/232F3E" width="50" height="50" alt="AWS" />
+</picture>
 </div>
 
 <br>
