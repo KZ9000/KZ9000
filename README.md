@@ -101,7 +101,7 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" />
-  <img src="https://1000marcas.net/wp-content/uploads/2021/05/Amazon-Web-Services-Logo.png" width="50" height="50" alt="AWS" />
+  <img src="https://img.icons8.com/win10/1200/amazon-web-services.jpg" width="50" height="50" alt="AWS" />
 </div>
 
 <br>
