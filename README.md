@@ -57,7 +57,11 @@
 <h3 align="left">🗄️ Databases</h3>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/mysql/FFFFFF">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/mysql/4479A1">
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="50" height="50" alt="MySQL" />
+</picture>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" />
 </div>
 
@@ -97,7 +101,7 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50" alt="AWS" />
+  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="50" height="50" alt="AWS" />
 </div>
 
 <br>
