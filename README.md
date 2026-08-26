@@ -44,134 +44,61 @@
 
 <br>
 
-<!-- Languages & Frameworks -->
 <h3 align="left">💻 Languages & Frameworks</h3>
 
-<table>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" alt="Java" />
-      <br>
-      <sub><b>Java</b></sub>
-    </td>
-
-    <td align="center" width="140">
-      <img src="https://cdn.simpleicons.org/springboot/6DB33F" width="45" alt="Spring Boot" />
-      <br>
-      <sub><b>Spring Boot</b></sub>
-    </td>
-
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/thymeleaf/thymeleaf-original.svg" width="45" alt="Thymeleaf" />
-      <br>
-      <sub><b>Thymeleaf</b></sub>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50" alt="Java" />
+  <img src="https://cdn.simpleicons.org/springboot/6DB33F" width="50" height="50" alt="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/thymeleaf/thymeleaf-original.svg" width="50" height="50" alt="Thymeleaf" />
+</div>
 
 <br>
 
-<!-- Databases -->
 <h3 align="left">🗄️ Databases</h3>
 
-<table>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" alt="MySQL" />
-      <br>
-      <sub><b>MySQL</b></sub>
-    </td>
-
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" alt="PostgreSQL" />
-      <br>
-      <sub><b>PostgreSQL</b></sub>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" />
+</div>
 
 <br>
 
-<!-- Tools -->
 <h3 align="left">🛠️ Tools</h3>
 
-<table>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width="45" alt="Maven" />
-      <br>
-      <sub><b>Maven</b></sub>
-    </td>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width="50" height="50" alt="Maven" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" alt="Git" />
 
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" alt="Git" />
-      <br>
-      <sub><b>Git</b></sub>
-    </td>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717">
+    <img src="https://cdn.simpleicons.org/github/181717" width="50" height="50" alt="GitHub" />
+  </picture>
 
-    <td align="center" width="140">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF">
-        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717">
-        <img src="https://cdn.simpleicons.org/github/181717" width="45" alt="GitHub" />
-      </picture>
-      <br>
-      <sub><b>GitHub</b></sub>
-    </td>
-
-    <td align="center" width="140">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/markdown/FFFFFF">
-        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/markdown/000000">
-        <img src="https://cdn.simpleicons.org/markdown/000000" width="45" alt="Markdown" />
-      </picture>
-      <br>
-      <sub><b>Markdown</b></sub>
-    </td>
-  </tr>
-</table>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/markdown/FFFFFF">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/markdown/000000">
+    <img src="https://cdn.simpleicons.org/markdown/000000" width="50" height="50" alt="Markdown" />
+  </picture>
+</div>
 
 <br>
 
-<!-- IDEs -->
 <h3 align="left">🖥️ IDEs</h3>
 
-<table>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="45" alt="IntelliJ IDEA" />
-      <br>
-      <sub><b>IntelliJ IDEA</b></sub>
-    </td>
-
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg" width="45" alt="Apache NetBeans" />
-      <br>
-      <sub><b>NetBeans</b></sub>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="50" height="50" alt="IntelliJ IDEA" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg" width="50" height="50" alt="Apache NetBeans" />
+</div>
 
 <br>
 
-<!-- Currently Learning -->
 <h3 align="left">📚 Currently Learning</h3>
 
-<table>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" alt="Docker" />
-      <br>
-      <sub><b>Docker</b></sub>
-    </td>
-
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" width="45" alt="AWS" />
-      <br>
-      <sub><b>AWS</b></sub>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50" alt="AWS" />
+</div>
 
 <br>
 
