@@ -7,7 +7,7 @@
 
 <!-- LinkedIn -->
 <div align="center">
-  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/sebastian-r-230619382/?skipRedirect=true)" target="_blank">
+  <a href="https://www.linkedin.com/in/sebastian-r-230619382/" target="_blank">
     <img
       src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       height="25"
@@ -15,6 +15,7 @@
     />
   </a>
 </div>
+
 
 <br>
 
